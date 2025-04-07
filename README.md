@@ -13,6 +13,16 @@ Solución automatizada que transforma grandes volúmenes de datos desde Excel a 
 - Organización de documentos empresariales
 - Cualquier flujo de trabajo que requiera distribución masiva de documentos
 
+## 🌟 Características principales
+
+| Función                  | Beneficio                                                                |
+|--------------------------|--------------------------------------------------------------------------|
+| 🔄 Conversión masiva        | Procesa +3,000 registros en segundos                                    |
+| 📂 Organización automática  | Distribuye en 40 carpetas por modalidad (33 Cuento, 3 Ensayo, 4 Crónica)|
+| ✨ Metadatos integrados     | Incluye: Código, Modalidad, Categoría y Título en cada PDF              |
+| ⚙️ Configuración flexible   | Adaptable a cualquier estructura de Excel                                |
+| 📊 Manejo de grandes datos  | Optimizado para textos largos y volúmenes elevados                       |
+
 ## 🛠 Requisitos técnicos
 ```bash
 Python >= 3.8
@@ -36,7 +46,7 @@ Prepara tu archivo Excel (ARCHIVO-BD.xls) con estas columnas mínimas:
 - R_CONCURSO_CATEGORIA (Adulto/Juvenil/Infantil)
 - D_TITULO (título del trabajo)
 
-Descarga el script generador_pdfs.py
+Descarga el script [generador_pdfs.py](generador_pdfs.py)
 
 ##  🚀 Uso
 ```bash
