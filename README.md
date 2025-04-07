@@ -62,4 +62,4 @@ PDFs_Generados/
 ```
 
 ##  📜 Licencia
-MIT License. Ver archivo [texto](LICENSE) para detalles.
+MIT License. Ver archivo [LICENSE](LICENSE) para detalles.
